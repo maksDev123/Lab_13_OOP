@@ -23,7 +23,7 @@ public class PDLReader {
         JSONObject jsonObject = new JSONObject(text);
         System.out.println(jsonObject);
 
-        Complany company = new Complany("", jsonObject.get("website").toString(), jsonObject.get("display_name").toString());
+        Company company = new Company("", jsonObject.get("website").toString(), jsonObject.get("display_name").toString());
 
 
     }

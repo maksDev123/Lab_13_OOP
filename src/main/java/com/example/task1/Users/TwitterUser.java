@@ -6,9 +6,9 @@ import lombok.ToString;
 
 @Data
 @ToString
-public class TwitterUse {
+public class TwitterUser {
     private String UserEmail;
     private String country;
-    private String lastActivateTime;
+    private int lastActivateTime;
 
 }

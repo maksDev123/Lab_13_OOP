@@ -8,5 +8,5 @@ import lombok.ToString;
 public class FacebookUser {
     private String UserEmail;
     private String country;
-    private String lastActivateTime;
+    private int lastActivateTime;
 }

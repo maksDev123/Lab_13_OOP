@@ -18,7 +18,7 @@ public class MyFacebookUser implements MyUser{
     }
 
     @Override
-    public String getLastActive() {
+    public int getLastActive() {
         return facebookUser.getLastActivateTime();
     }
     
