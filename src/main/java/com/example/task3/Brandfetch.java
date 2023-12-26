@@ -16,7 +16,7 @@ public class Brandfetch {
                 .url("https://api.brandfetch.io/v2/brands/"+ brand +".com")
                 .get()
                 .addHeader("accept", "application/json")
-                .addHeader("Authorization", "Bearer B+1Ac7EADnlIXXS7UylM12aUIdwsavX5HHieUzMGmb0=")
+                .addHeader("Authorization", "Bearer B+=")
                 .build();
 
         try {
