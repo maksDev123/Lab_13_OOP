@@ -1,0 +1,80 @@
+{
+    "affiliated_profiles": [],
+    "industry": "education management",
+    "sic": [
+        {
+            "sic_code": "4899",
+            "industry_sector": "communications services, not elsewhere classified",
+            "major_group": "communications",
+            "industry_group": "communications services, not elsewhere"
+        }
+    ],
+    "type": "private",
+    "alternative_names": [
+        "school of bioethics of ukrainian catholic university",
+        "the ukrainian catholic university (lviv, ukraine)",
+        "ucu student radio \"ukupotschi\"",
+        "ucu",
+        "ukrainian catholic university (lviv)",
+        "marriage and family institute, ukrainian catholic university",
+        "ucrainian catholic university",
+        "ukrainian catholic education foundation (canada)",
+        "language school 'language express' at ukrainian catholic university",
+        "english summer school ukrainian catholic university"
+    ],
+    "mic_exchange": null,
+    "id": "ukrainian-catholic-university",
+    "twitter_url": null,
+    "headline": null,
+    "alternative_domains": [],
+    "gics_sector": null,
+    "employee_count": 252,
+    "summary": "privat institution of higher education in humanities",
+    "facebook_url": null,
+    "website": "ucu.edu.ua",
+    "ticker": null,
+    "founded": null,
+    "profiles": [
+        "linkedin.com/company/ukrainian-catholic-university",
+        "linkedin.com/company/818029"
+    ],
+    "linkedin_id": "818029",
+    "employee_count_by_country": {
+        "canada": 3,
+        "germany": 3,
+        "ukraine": 230,
+        "netherlands": 1,
+        "united states": 10,
+        "australia": 2,
+        "austria": 1
+    },
+    "display_name": "Ukrainian Catholic University",
+    "tags": null,
+    "size": "201-500",
+    "likelihood": 6,
+    "name": "ukrainian catholic university",
+    "location": {
+        "continent": "europe",
+        "geo": null,
+        "country": "ukraine",
+        "street_address": null,
+        "metro": null,
+        "name": "ukraine",
+        "locality": null,
+        "address_line_2": null,
+        "region": null,
+        "postal_code": null
+    },
+    "linkedin_url": "linkedin.com/company/ukrainian-catholic-university",
+    "naics": [
+        {
+            "naics_industry": null,
+            "naics_code": "61",
+            "national_industry": null,
+            "sub_sector": null,
+            "industry_group": null,
+            "sector": "educational services"
+        }
+    ],
+    "status": 200
+}
